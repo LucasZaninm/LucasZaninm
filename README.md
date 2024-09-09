@@ -1,6 +1,3 @@
-Sou Lucas Zanin, administrador de uma empresa no setor de construção civil, formado em Administração de Empresas e atualmente cursando Análise e Desenvolvimento de Sistemas.
-Como estudante e desenvolvedor FullStack, participo do programa Talentos MaisPraTi e sou movido pela curiosidade, sempre em busca de novas oportunidades e soluções inovadoras.
-Para contato, meu e-mail é lucaszaninm@gmail.com e o telefone é +55 (51) 98281-8809.
 
 
 
